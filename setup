@@ -1,0 +1,6 @@
+#!/data/data/com.termux/files/usr/bin/bash
+# Created by Tej hacker
+cd $HOME/Termux-Toolss
+mv toolss /data/data/com.termux/files/usr/bin/
+cd /data/data/com.termux/files/usr/bin/bash
+chmod +x toolss
