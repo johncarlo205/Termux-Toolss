@@ -1,0 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/bash
+# Created by Tej hacker
+cd $HOME/Termux-Toolss
+python All-Toolss.py
